@@ -1,0 +1,3 @@
+Pohádka o červené karkulce
+
+Karkulka šla babiičce odnést bábovku a jiné dobroty. Po cestě potkala vlka, který od ní vyzvěděl kam jde. Předběhl ji a sežral babičku. Poté si lehl do její postele a když přišla Karkulka, předstíral, že je babička. Pak Karkulku sežral a usnul. Jeho chrápání přilákalo myslivce, který zjistil co se stalo a vlkovi rozpáral břicho a Karkulku s babičkou vysvobodil. Vlkovi pak zašili do břicha kameny. Poté co se vlk probral, měl žízeň a šel se napít. Spadl do vody a utopil se
