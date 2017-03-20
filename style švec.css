@@ -1,0 +1,48 @@
+ <style>
+       .content {background: rgb(244,164,96);
+        padding: 20px;
+        text-align: justify;
+        font-style: fantasy;
+        font-size: 25px;
+
+      }
+      .zanr {font-size: 30px;
+        font-weight: bold;
+        font-style: serif}
+
+	h1 {color: rgb(128,0,0);
+	font-family: "gigi";
+	font-size: 60px;
+	font-weight: bold;
+	}
+
+        a {text-decoration: none;}
+
+        .obrázky {width: 30%;
+          float: right;
+          margin-bottom: 20px;
+          margin-left: 20px;
+          }
+
+          h2 {font-size: 30px;}
+
+          .medvìd.ptáèek {width: 25%;
+          float: right;
+          margin-bottom: 20px;
+          margin-left: 20px;
+          }
+
+          .zajíèek {width: 15%;
+          float: left;
+          margin-bottom: 35px;
+          margin-right: 35px;
+          height: 290px;
+        }
+
+
+          footer {color: rgb(128,0,0);
+	font-family: "gigi";
+	font-size: 60px;
+	font-weight: bold;}
+          
+</style>
